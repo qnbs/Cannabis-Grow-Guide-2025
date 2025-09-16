@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Cannabis-Grow-Guide-2025/sw.js', { scope: '/Cannabis-Grow-Guide-2025/' })})}
